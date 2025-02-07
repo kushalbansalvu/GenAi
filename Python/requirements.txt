@@ -1,0 +1,4 @@
+#This package provides the IPython kernel for Jupyter. Installation from source After that, all normal ipython commands will use this newly-installed version of ...
+ipykernel
+#NumPy is a Python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices.
+numpy
