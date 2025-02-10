@@ -1,4 +1,15 @@
-#This package provides the IPython kernel for Jupyter. Installation from source After that, all normal ipython commands will use this newly-installed version of ...
+#This package provides the IPython kernel for Jupyter. Installation from source After that, all normal ipython commands will use this newly-installed version.
 ipykernel
 #NumPy is a Python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices.
 numpy
+#streamlit Streamlit turns data scripts into shareable web apps in minutes.
+#All in pure Python. No front‑end experience required.
+streamlit
+#pandas
+#Pandas is a Python library.
+#Pandas is used to analyze data.
+pandas
+#scikit-learn
+scikit-learn
+#nltk:-Python nlp library
+nltk
