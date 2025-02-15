@@ -1,0 +1,11 @@
+prefix=/home/kushal/Projects/GenAi/Python/venv
+exec_prefix=/home/kushal/Projects/GenAi/Python/venv
+libdir=/home/kushal/Projects/GenAi/Python/venv/lib
+includedir=/home/kushal/Projects/GenAi/Python/venv/include
+
+Name: uuid
+Description: Universally unique id library
+Version: 2.32.1
+Requires:
+Cflags: -I${includedir}/uuid
+Libs: -L${libdir} -luuid
