@@ -13,3 +13,5 @@ pandas
 scikit-learn
 #nltk:-Python nlp library
 nltk
+#gensim for word2vec
+gernsim
